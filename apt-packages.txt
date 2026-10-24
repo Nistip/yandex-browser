@@ -1,0 +1,16 @@
+ca-certificates
+curl
+wget
+gnupg
+xvfb
+x11vnc
+fluxbox
+libnss3
+libgbm1
+libasound2t64
+libxss1
+fonts-liberation
+novnc
+supervisor
+websockify
+procps
